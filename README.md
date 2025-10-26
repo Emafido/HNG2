@@ -59,8 +59,8 @@ You should now see the Horbit landing page. From there, you can navigate to the 
 ## Author Info
 
 **IMAFIDON EMMANUEL**
-*   LinkedIn: `[Your LinkedIn Profile]`
-*   Twitter: `[Your Twitter Handle]`
+*   LinkedIn: `www.linkedin.com/in/emmanuel-emafido`
+*   Twitter: `x.com/EmmanuelEmafido`
 
 ---
 <p align="center">
